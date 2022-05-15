@@ -12,6 +12,7 @@ printf("Hello, %s\n,name");
 srand(time(NULL));
 d1=rand()%6+1;
 d2=rand()%6+1;
+  
 
 printf("Rolling the dice...\n");
 printf("Die 1: %d\n",d1);
